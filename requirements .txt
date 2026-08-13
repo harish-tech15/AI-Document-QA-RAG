@@ -1,7 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+streamlit
 pypdf
 scikit-learn
 sentence-transformers
 transformers
-torch --extra-index-url https://download.pytorch.org/whl/cpu
 accelerate
 langchain-text-splitters
