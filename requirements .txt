@@ -1,7 +1,6 @@
-%%writefile requirements.txt
 streamlit
 pypdf
-faiss-cpu
+faiss-cpu==1.14.3
 numpy
 sentence-transformers
 transformers
