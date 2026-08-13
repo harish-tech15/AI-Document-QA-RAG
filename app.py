@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import torch
+
 
 from pypdf import PdfReader
 from sentence_transformers import SentenceTransformer
