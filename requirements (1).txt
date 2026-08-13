@@ -1,0 +1,10 @@
+%%writefile requirements.txt
+streamlit
+pypdf
+faiss-cpu
+numpy
+sentence-transformers
+transformers
+torch
+accelerate
+langchain-text-splitters
