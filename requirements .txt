@@ -1,9 +1,7 @@
-streamlit==1.61.1
 pypdf
-numpy
 scikit-learn
 sentence-transformers
 transformers
-torch
+torch --extra-index-url https://download.pytorch.org/whl/cpu
 accelerate
 langchain-text-splitters
