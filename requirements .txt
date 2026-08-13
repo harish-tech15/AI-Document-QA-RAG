@@ -1,7 +1,7 @@
 streamlit==1.61.1
 pypdf
-faiss-cpu==1.14.3
 numpy
+scikit-learn
 sentence-transformers
 transformers
 torch
